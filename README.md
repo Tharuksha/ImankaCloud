@@ -41,7 +41,7 @@
 ### :link:&nbsp;Connect with me
 
 <p align="center">
-<a href="https://discordlookup.com/user/577183482418167837"><img src="https://img.shields.io/badge/-Discord-3423A6?style=for-the-badge&logo=Discord&logoColor=white"/></a>
+<a href="https://discordlookup.com/user/577183482418167837"><img src="https://discord.c99.nl/widget/theme-2/577183482418167837.png"/></a>
 </p>
 
 ![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
